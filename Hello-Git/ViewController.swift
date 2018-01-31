@@ -20,6 +20,8 @@ class ViewController: UIViewController {
         print("develop branch 4")
         
         print("hotfix branch")
+        
+        print("feature-1 branch")
     }
 
     override func didReceiveMemoryWarning() {
